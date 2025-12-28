@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danie\\Documents\\github\\HSS\\HSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB8E164-3C98-40BC-B018-A50B4CF569EF}|..\\BLL\\BLL.csproj|c:\\users\\danie\\documents\\github\\hss\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC745CFA-3181-4366-B540-708C483BF7FC}|..\\BE\\BE.csproj|c:\\users\\danie\\documents\\github\\hss\\be\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A6DDFE-FE57-415C-A9BC-2F0F52DD3929}|..\\ORM\\ORM.csproj|c:\\users\\danie\\documents\\github\\hss\\orm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BA047-96E1-4E50-A80B-C593E1654453}|HSS.csproj|c:\\users\\danie\\documents\\github\\hss\\hss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{203BA047-96E1-4E50-A80B-C593E1654453}|HSS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Documents\\github\\HSS\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Danie\\Documents\\github\\HSS\\BLL\\Class1.cs",
+              "RelativeToolTip": "..\\BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:24:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Documents\\github\\HSS\\BE\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BE\\Class1.cs",
+              "ToolTip": "C:\\Users\\Danie\\Documents\\github\\HSS\\BE\\Class1.cs",
+              "RelativeToolTip": "..\\BE\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:24:40.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Documents\\github\\HSS\\ORM\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ORM\\Class1.cs",
+              "ToolTip": "C:\\Users\\Danie\\Documents\\github\\HSS\\ORM\\Class1.cs",
+              "RelativeToolTip": "..\\ORM\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:24:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Danie\\Documents\\github\\HSS\\HSS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Danie\\Documents\\github\\HSS\\HSS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:23:47.679Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,10 @@ namespace BE
         private int stock_disponible;
         private DateTime ultima_actualizacion;
 
+        public ProductoBE()
+        {
+
+        }
         public ProductoBE(string marca, string nombre, double peso, double precio, int stock_disponible, DateTime ultima_actualizacion)
         {
             this.marca = marca;

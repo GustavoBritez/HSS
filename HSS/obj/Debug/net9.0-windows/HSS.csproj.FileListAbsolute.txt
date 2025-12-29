@@ -1,0 +1,17 @@
+C:\Users\Danie\Documents\github\repo\HSS\bin\Debug\net9.0-windows\HSS.exe
+C:\Users\Danie\Documents\github\repo\HSS\bin\Debug\net9.0-windows\HSS.deps.json
+C:\Users\Danie\Documents\github\repo\HSS\bin\Debug\net9.0-windows\HSS.runtimeconfig.json
+C:\Users\Danie\Documents\github\repo\HSS\bin\Debug\net9.0-windows\HSS.dll
+C:\Users\Danie\Documents\github\repo\HSS\bin\Debug\net9.0-windows\HSS.pdb
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.Form1.resources
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.csproj.GenerateResource.cache
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.AssemblyInfoInputs.cache
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.AssemblyInfo.cs
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.sourcelink.json
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.dll
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\refint\HSS.dll
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.pdb
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\HSS.genruntimeconfig.cache
+C:\Users\Danie\Documents\github\repo\HSS\obj\Debug\net9.0-windows\ref\HSS.dll

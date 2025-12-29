@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "BE/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BE.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BE/1.0.0": {
+      "type": "project",
+      "path": "../BE/BE.csproj",
+      "msbuildProject": "../BE/BE.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "BE >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Danie\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danie\\Documents\\github\\HSS\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Danie\\Documents\\github\\repo\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Danie\\Documents\\github\\HSS\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\Danie\\Documents\\github\\repo\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danie\\Documents\\github\\HSS\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\Danie\\Documents\\github\\repo\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Danie\\Documents\\github\\repo\\BE\\BE.csproj": {
+              "projectPath": "C:\\Users\\Danie\\Documents\\github\\repo\\BE\\BE.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            Grilla_Productos = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)Grilla_Productos).BeginInit();
+            SuspendLayout();
+            // 
+            // Grilla_Productos
+            // 
+            Grilla_Productos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            Grilla_Productos.Location = new Point(12, 88);
+            Grilla_Productos.Name = "Grilla_Productos";
+            Grilla_Productos.Size = new Size(659, 192);
+            Grilla_Productos.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(Grilla_Productos);
+            Name = "Form1";
+            Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)Grilla_Productos).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private DataGridView Grilla_Productos;
     }
 }

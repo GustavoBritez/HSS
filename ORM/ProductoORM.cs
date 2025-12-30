@@ -28,12 +28,12 @@ namespace ORM
             {
                 ProductoBE Producto = new ProductoBE
                 {
-                    Marca = table.Columns["MARCA"].ToString(),
-                    Nombre = table.Columns["NOMBRE"].ToString(),
-                    Peso = Convert.ToInt32(table.Columns["PESO"]),
-                    Precio = Convert.ToInt32(table.Columns["PRECIO"]),
-                    Stock_disponible = Convert.ToInt32(table.Columns["STOCK_DISPONIBLE"]),
-                    Ultima_actualizacion = Convert.ToDateTime(table.Columns["ULTIMA_ACTUALIZACION"])
+                    Marca = row["MARCA"].ToString(),
+                    Nombre = row["NOMBRE"].ToString(),
+                    Peso = Convert.ToInt32(row["PESO"]),
+                    Precio = Convert.ToInt32(row["PRECIO"]),
+                    Stock_disponible = Convert.ToInt32(row["STOCK_DISPONIBLE"]),
+                    Ultima_actualizacion = Convert.ToDateTime(row["ULTIMA_ACTUALIZACION"])
                 };
                 listaProductos.Add(Producto);
             }  
@@ -44,6 +44,7 @@ namespace ORM
         {
             SqlParameter[] sp = new SqlParameter[] {
                 new SqlParameter("MARCA",SqlDbType.VarChar) { Value = newP.Marca },
+                new SqlParameter("@NOMBRE", newP.Nombre),
                 new SqlParameter("NOMBRE",SqlDbType.VarChar) { Value = newP.Nombre },
                 new SqlParameter("PESO",SqlDbType.Decimal) { Value = newP.Peso },
                 new SqlParameter("PRECIO",SqlDbType.Decimal) { Value = newP.Precio },
@@ -69,6 +70,7 @@ namespace ORM
             SqlParameter[] sp = new SqlParameter[] {
                 new SqlParameter("ID_PRODUCTO",SqlDbType.VarChar) { Value = id_proucto },
                 new SqlParameter("MARCA",SqlDbType.VarChar) { Value = newP.Marca },
+                new SqlParameter("@NOMBRE", newP.Nombre),
                 new SqlParameter("NOMBRE",SqlDbType.VarChar) { Value = newP.Nombre },
                 new SqlParameter("PESO",SqlDbType.Decimal) { Value = newP.Peso },
                 new SqlParameter("PRECIO",SqlDbType.Decimal) { Value = newP.Precio },

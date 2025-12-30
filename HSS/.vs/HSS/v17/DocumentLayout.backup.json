@@ -9,15 +9,15 @@
       "AbsoluteMoniker": "D:0:0:{26A6DDFE-FE57-415C-A9BC-2F0F52DD3929}|..\\ORM\\ORM.csproj|d:\\repo\\orm\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FC745CFA-3181-4366-B540-708C483BF7FC}|..\\BE\\BE.csproj|d:\\repo\\be\\productobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{203BA047-96E1-4E50-A80B-C593E1654453}|HSS.csproj|D:\\REPO\\HSS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{203BA047-96E1-4E50-A80B-C593E1654453}|HSS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{203BA047-96E1-4E50-A80B-C593E1654453}|HSS.csproj|d:\\repo\\hss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{203BA047-96E1-4E50-A80B-C593E1654453}|HSS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC745CFA-3181-4366-B540-708C483BF7FC}|..\\BE\\BE.csproj|d:\\repo\\be\\productobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EB8E164-3C98-40BC-B018-A50B4CF569EF}|..\\BLL\\BLL.csproj|d:\\repo\\bll\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "..\\ORM\\Access.cs",
               "ToolTip": "D:\\REPO\\ORM\\Access.cs",
               "RelativeToolTip": "..\\ORM\\Access.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAhwEwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T00:46:12.342Z",
               "EditorCaption": ""
@@ -88,15 +88,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BLL",
+              "Title": "BLL.csproj",
               "DocumentMoniker": "D:\\REPO\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "..\\BLL\\BLL.csproj",
               "ToolTip": "D:\\REPO\\BLL\\BLL.csproj",
               "RelativeToolTip": "..\\BLL\\BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-29T23:55:49.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:55:49.024Z"
             },
             {
               "$type": "Document",
@@ -108,18 +107,17 @@
               "RelativeToolTip": "..\\BLL\\ProductoBLL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T00:21:32.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T00:21:32.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProductoBE.cs",
               "DocumentMoniker": "D:\\REPO\\BE\\ProductoBE.cs",
               "RelativeDocumentMoniker": "..\\BE\\ProductoBE.cs",
               "ToolTip": "D:\\REPO\\BE\\ProductoBE.cs",
               "RelativeToolTip": "..\\BE\\ProductoBE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T23:55:49.183Z",
               "EditorCaption": ""
@@ -132,26 +130,25 @@
               "RelativeDocumentMoniker": "..\\ORM\\ProductoORM.cs",
               "ToolTip": "D:\\REPO\\ORM\\ProductoORM.cs",
               "RelativeToolTip": "..\\ORM\\ProductoORM.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T23:53:55.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\REPO\\HSS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\REPO\\HSS\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:23:47.679Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-12-28T19:23:47.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\REPO\\HSS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -159,8 +156,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:14:32.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T00:14:32.603Z"
             },
             {
               "$type": "Document",

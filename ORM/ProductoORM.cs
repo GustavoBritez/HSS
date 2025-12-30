@@ -24,18 +24,19 @@ namespace ORM
 
             DataTable table = acceso.Leer("OBTENER_PRODUCTOS");
 
-            ProductoBE Producto = new ProductoBE
+            foreach (DataRow row in table.Rows)
             {
-                Marca = table.Columns["MARCA"].ToString(),
-                Nombre = table.Columns["NOMBRE"].ToString(),
-                Peso = Convert.ToInt32(table.Columns["PESO"]),
-                Precio = Convert.ToInt32(table.Columns["PRECIO"]),
-                Stock_disponible = Convert.ToInt32(table.Columns["STOCK_DISPONIBLE"]),
-                Ultima_actualizacion = Convert.ToDateTime(table.Columns["ULTIMA_ACTUALIZACION"])
-            };
-                
-            listaProductos.Add(Producto);
-
+                ProductoBE Producto = new ProductoBE
+                {
+                    Marca = table.Columns["MARCA"].ToString(),
+                    Nombre = table.Columns["NOMBRE"].ToString(),
+                    Peso = Convert.ToInt32(table.Columns["PESO"]),
+                    Precio = Convert.ToInt32(table.Columns["PRECIO"]),
+                    Stock_disponible = Convert.ToInt32(table.Columns["STOCK_DISPONIBLE"]),
+                    Ultima_actualizacion = Convert.ToDateTime(table.Columns["ULTIMA_ACTUALIZACION"])
+                };
+                listaProductos.Add(Producto);
+            }  
             return listaProductos;
         }
 

@@ -1,0 +1,12 @@
+D:\REPO\BE\bin\Debug\net9.0\BE.deps.json
+D:\REPO\BE\bin\Debug\net9.0\BE.dll
+D:\REPO\BE\bin\Debug\net9.0\BE.pdb
+D:\REPO\BE\obj\Debug\net9.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\BE\obj\Debug\net9.0\BE.AssemblyInfoInputs.cache
+D:\REPO\BE\obj\Debug\net9.0\BE.AssemblyInfo.cs
+D:\REPO\BE\obj\Debug\net9.0\BE.csproj.CoreCompileInputs.cache
+D:\REPO\BE\obj\Debug\net9.0\BE.sourcelink.json
+D:\REPO\BE\obj\Debug\net9.0\BE.dll
+D:\REPO\BE\obj\Debug\net9.0\refint\BE.dll
+D:\REPO\BE\obj\Debug\net9.0\BE.pdb
+D:\REPO\BE\obj\Debug\net9.0\ref\BE.dll

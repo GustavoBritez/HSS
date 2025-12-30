@@ -1,0 +1,16 @@
+D:\REPO\ORM\bin\Debug\net9.0\ORM.deps.json
+D:\REPO\ORM\bin\Debug\net9.0\ORM.dll
+D:\REPO\ORM\bin\Debug\net9.0\ORM.pdb
+D:\REPO\ORM\bin\Debug\net9.0\BE.dll
+D:\REPO\ORM\bin\Debug\net9.0\BE.pdb
+D:\REPO\ORM\obj\Debug\net9.0\ORM.csproj.AssemblyReference.cache
+D:\REPO\ORM\obj\Debug\net9.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\ORM\obj\Debug\net9.0\ORM.AssemblyInfoInputs.cache
+D:\REPO\ORM\obj\Debug\net9.0\ORM.AssemblyInfo.cs
+D:\REPO\ORM\obj\Debug\net9.0\ORM.csproj.CoreCompileInputs.cache
+D:\REPO\ORM\obj\Debug\net9.0\ORM.sourcelink.json
+D:\REPO\ORM\obj\Debug\net9.0\ORM.csproj.Up2Date
+D:\REPO\ORM\obj\Debug\net9.0\ORM.dll
+D:\REPO\ORM\obj\Debug\net9.0\refint\ORM.dll
+D:\REPO\ORM\obj\Debug\net9.0\ORM.pdb
+D:\REPO\ORM\obj\Debug\net9.0\ref\ORM.dll

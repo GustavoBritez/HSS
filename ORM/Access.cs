@@ -13,9 +13,7 @@ namespace ORM
 {
     internal class Access
     {
-        string CONEXION = null;
-
-        public SqlConnection Coneccion = new SqlConnection("Cadena");
+        public SqlConnection Coneccion = new SqlConnection("Data Source=.;Initial Catalog=STOCK;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
         public SqlTransaction transaction;
 
         public void Open()
@@ -50,9 +48,12 @@ namespace ORM
                 Open();
                 Start_TX();
 
-                using (SqlCommand cmd = new SqlCommand())
+                using (SqlCommand cmd = new SqlCommand(storedprocedure))
                 {
+                    cmd.Connection = Coneccion;
+                    cmd.Transaction = transaction;
                     cmd.CommandType = CommandType.Text;
+
                     if ( parameter != null )
                         cmd.Parameters.AddRange( parameter );
 

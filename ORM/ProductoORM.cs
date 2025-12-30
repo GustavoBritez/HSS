@@ -44,7 +44,7 @@ namespace ORM
         {
             SqlParameter[] sp = new SqlParameter[] {
                 new SqlParameter("MARCA",SqlDbType.VarChar) { Value = newP.Marca },
-                new SqlParameter("@NOMBRE", newP.Nombre),
+                new SqlParameter("@NOMBRE", newP.Nombre) { Value = newP.Nombre },
                 new SqlParameter("NOMBRE",SqlDbType.VarChar) { Value = newP.Nombre },
                 new SqlParameter("PESO",SqlDbType.Decimal) { Value = newP.Peso },
                 new SqlParameter("PRECIO",SqlDbType.Decimal) { Value = newP.Precio },
@@ -70,7 +70,7 @@ namespace ORM
             SqlParameter[] sp = new SqlParameter[] {
                 new SqlParameter("ID_PRODUCTO",SqlDbType.VarChar) { Value = id_proucto },
                 new SqlParameter("MARCA",SqlDbType.VarChar) { Value = newP.Marca },
-                new SqlParameter("@NOMBRE", newP.Nombre),
+                new SqlParameter("@NOMBRE", newP.Nombre) { Value = newP.Nombre },
                 new SqlParameter("NOMBRE",SqlDbType.VarChar) { Value = newP.Nombre },
                 new SqlParameter("PESO",SqlDbType.Decimal) { Value = newP.Peso },
                 new SqlParameter("PRECIO",SqlDbType.Decimal) { Value = newP.Precio },

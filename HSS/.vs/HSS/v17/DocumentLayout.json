@@ -62,12 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -78,8 +74,7 @@
               "RelativeToolTip": "..\\ORM\\Access.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAhwDIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T00:46:12.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T00:46:12.342Z"
             },
             {
               "$type": "Document",
@@ -107,6 +102,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoORM.cs",
+              "DocumentMoniker": "D:\\REPO\\ORM\\ProductoORM.cs",
+              "RelativeDocumentMoniker": "..\\ORM\\ProductoORM.cs",
+              "ToolTip": "D:\\REPO\\ORM\\ProductoORM.cs",
+              "RelativeToolTip": "..\\ORM\\ProductoORM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:53:55.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductoBE.cs",
               "DocumentMoniker": "D:\\REPO\\BE\\ProductoBE.cs",
@@ -115,21 +127,7 @@
               "RelativeToolTip": "..\\BE\\ProductoBE.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T23:55:49.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductoORM.cs",
-              "DocumentMoniker": "D:\\REPO\\ORM\\ProductoORM.cs",
-              "RelativeDocumentMoniker": "..\\ORM\\ProductoORM.cs",
-              "ToolTip": "D:\\REPO\\ORM\\ProductoORM.cs",
-              "RelativeToolTip": "..\\ORM\\ProductoORM.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T23:53:55.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:55:49.183Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "ToolTip": "D:\\REPO\\HSS\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:23:47.679Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-12-28T19:23:47.679Z"
             },
             {
               "$type": "Document",
